@@ -3,9 +3,6 @@
   <img src="https://miro.medium.com/1*b21FyqUbowHYAOQDXH0tDw.jpeg" alt="MasterHead" width="100%" />
 </a>
 
-<!-- Right side GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" />
-
 <h1 align="center">Hi 👋, I'm Vikas Chhalotre</h1>
 <h3 align="center">🎓 Final Year B.Tech CSE Student | 💻 Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
